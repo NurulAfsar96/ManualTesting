@@ -14,6 +14,7 @@ This project has some test deliverables attached with a test plan. The test plan
 Mind maps are created for the visual representation of the test scenarios and to easily identify the relationship between components. It allows you to quickly create test plans, test cases, and test reports that can be shared and easily understood by the team members.
 
 2. **Report**
+
 In reports, all the test activities and results are summarized.
 
 |   Total Testcase	| No of Passed  	| No of Failed  	|  No of Not Executed 	|  No of Out of scope 	|
