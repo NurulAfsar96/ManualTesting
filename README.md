@@ -8,6 +8,7 @@ This project has some test deliverables attached with a test plan. The test plan
 
 ## Test Deliverables
 
+
 1. **Mind maps**
 Mind maps are created for the visual representation of the test scenarios and to easily identify the relationship between components. It allows you to quickly create test plans, test cases, and test reports that can be shared and easily understood by the team members.
 
