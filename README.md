@@ -15,8 +15,8 @@ Mind maps are created for the visual representation of the test scenarios and to
 2. **Report**
 In reports, all the test activities and results are summarized.
 | Total Testcase   | No of Passed      | No of Failed | No of Not Executed | No of Out of scope |
-|---       |---       |---       |---       |---       |
-| 46 | 38       |  1  | 7   |0 |
+|------------      |------------       |-------       |--------------      |---------------     |
+| 46               | 38                |  1           |                7   | 0                  |
 
 
 3. **Test Cases**
